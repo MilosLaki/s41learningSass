@@ -1,3 +1,16 @@
+@import "partial/_variables.scss";
 
 @import "./partial/_reset.scss";
 @import "./partial/_global.scss";
+
+
+
+
+@import "partial/_header.scss";
+@import "partial/_home.scss";
+@import "partial/_about.scss";
+@import "partial/_services.scss";
+@import "partial/_comments.scss";
+@import "partial/_courses.scss";
+@import "partial/_contact.scss";
+@import "partial/_footer.scss";
