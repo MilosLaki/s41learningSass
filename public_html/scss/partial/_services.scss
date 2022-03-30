@@ -7,12 +7,5 @@ $service_bg: $white;
 
 
 
-    .btn{
-        display: inline-block;
-        background-color: #fff;
-        padding: 10px 30px;
-        border: 1px solid #000;
-        @include radius(10px);
-        @include radiusAll(10px, 0, 10px, 0);
-    }
+   
 }
