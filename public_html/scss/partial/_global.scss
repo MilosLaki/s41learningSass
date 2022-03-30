@@ -22,6 +22,8 @@ html {
 body {
     font-size: 1.6rem;
     background-color: #ccc;
+    font-family: $roboto;
+    font-weight: 400;
 }
 
 
@@ -34,9 +36,12 @@ body {
 
 h1 , h2 , h3 , h4, h5, h6 {
     margin-bottom: 20px;
-    
+    font-family: $roboto;
+    font-weight: 700;
+    line-height: 1.25rem;
 }
 
 p {
     margin-bottom: 10px;
 }
+
